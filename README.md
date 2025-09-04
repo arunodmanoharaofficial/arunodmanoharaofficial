@@ -1,64 +1,82 @@
-```markdown
-# Hi, I'm Arunod Manohara 👋
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D1FF,100:8A2BE2&text=Arunod%20Manohara&desc=Web%20Dev%20•%20VPN%20Tunneling%20•%20Automation&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-Building for a better world without any risk to people.
+<p align="center">
+  <!-- Typing intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=800&lines=Privacy-first+developer;Secure+tunneling+and+automation;Building+reliable+web+experiences" alt="typing animation" />
+</p>
 
-🌐 https://www.arunod.us · GitHub: @arunodmanoharaofficial
-
----
-
-## About Me
-I'm a developer focused on web development and VPN tunneling. I build reliable, privacy-aware software and tools that keep users safe and improve real-world experiences. When I'm not coding I enjoy hiking, playing chess, and exploring new ideas in programming.
-
----
-
-## Tech & Tools
-- Languages: Java, JavaScript, Python, PHP, HTML, CSS
-- Areas: Web development, VPN tunneling, backend services, automation
-- Tools & platforms (examples): Git, Docker, VS Code, Linux
+<p align="center">
+  <a href="https://www.arunod.us"><img src="https://img.shields.io/badge/Website-arunod.us-1abc9c?style=for-the-badge" alt="Website"></a>
+  <a href="https://github.com/arunodmanoharaofficial"><img src="https://img.shields.io/badge/GitHub-@arunodmanoharaofficial-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=arunodmanoharaofficial&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
-## Featured Projects
-- [live-site](https://github.com/arunodmanoharaofficial/live-site) — Personal/demo site and static-hosting examples — great for showcasing web work.
-
-- [my-official-webpage](https://github.com/arunodmanoharaofficial/my-official-webpage) — Your main personal website repository (HTML/CSS/JS). Source for arunod.us.
-
-- [GODSOFDATA-TRAFFICX](https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX) — Traffic or data visualization/analysis project (Python/JS tooling and dashboards).
-
-- [Xui-usage-bot](https://github.com/arunodmanoharaofficial/Xui-usage-bot) — Automation/bot for XUI usage tracking and related tasks.
-
-- [v2ray-worker](https://github.com/arunodmanoharaofficial/v2ray-worker) — VPN tunneling worker (v2ray) — edge/serverless deployment experiments for secure tunnels.
-
-(If you'd like different descriptions or to highlight other repos, tell me which ones to swap in.)
+## 👋 About Me
+Developer focused on **web development** and **VPN tunneling**. I build **privacy-aware** tools that keep users safe and improve real-world reliability. When I’m not coding, you’ll find me **hiking**, **playing chess**, or exploring new ideas in programming.
 
 ---
 
-## What I’m Learning / Exploring
-- Advanced web security and safe tunneling patterns
-- Scalable web deployments and serverless workers
-- Automation bots and developer tooling
+## 🧰 Tech & Tools
+**Languages:** Java · JavaScript · Python · PHP · HTML · CSS  
+**Areas:** Web dev · VPN tunneling · Backend services · Automation  
+**Tools:** Git · Docker · VS Code · Linux
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,py,php,html,css,git,docker,linux,vscode" alt="skills" />
+</p>
 
 ---
 
-## Fun Facts
-- I love hiking and chess.
-- I program for fun and to build useful, safe tools.
+## 🚀 Featured Projects
+- **[live-site](https://github.com/arunodmanoharaofficial/live-site)** — Demo/static hosting starter for showcasing web work.
+- **[my-official-webpage](https://github.com/arunodmanoharaofficial/my-official-webpage)** — Source for **arunod.us** (HTML/CSS/JS).
+- **[GODSOFDATA-TRAFFICX](https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX)** — Traffic/data visualization dashboards (Python/JS).
+- **[Xui-usage-bot](https://github.com/arunodmanoharaofficial/Xui-usage-bot)** — Automation bot for XUI usage tracking.
+- **[v2ray-worker](https://github.com/arunodmanoharaofficial/v2ray-worker)** — Serverless **v2ray** tunneling worker for secure edge deploys.
+
+> Want different highlights? Ping me which repos to swap in.
 
 ---
 
-## GitHub Stats
+## 🔭 Learning / Exploring
+- Advanced web security & safe tunneling patterns  
+- Scalable deployments & serverless workers  
+- Automation bots & developer tooling
 
-![Arunod's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunodmanoharaofficial&show_icons=true&theme=radical)
+---
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunodmanoharaofficial&layout=compact&theme=radical)
+## 📈 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arunodmanoharaofficial&show_icons=true&theme=radical" alt="stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=arunodmanoharaofficial&theme=radical" alt="streaks" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunodmanoharaofficial&layout=compact&theme=radical" alt="top languages" />
+</p>
 
 ---
 
-## Contact
-- Website: https://www.arunod.us
-- GitHub: https://github.com/arunodmanoharaofficial
+## 🐍 Contribution Snake (auto-generated)
+![Snake animation](https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/snake.svg)
 
 ---
-Thanks for reading — if you'd like edits to project descriptions, socials, or badge themes I can update the file and publish once the repository exists.
-```
+
+## 🧊 3D Contribution Graph (auto-generated)
+![3D profile](https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## 🧭 Contact
+- Website: **https://www.arunod.us**  
+- GitHub: **https://github.com/arunodmanoharaofficial**
+
+<details>
+<summary>🔎 Keywords (for discoverability)</summary>
+web development • vpn tunneling • backend services • serverless • automation • data visualization • privacy-first
+</details>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:8A2BE2,100:00D1FF&section=footer" width="100%" alt="footer" />
