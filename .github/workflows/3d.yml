@@ -1,0 +1,9 @@
+name: 3D profile contributions
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # runs weekly on Monday at 2 AM
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
