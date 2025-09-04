@@ -1,9 +1,30 @@
 name: 3D profile contributions
+
 on:
   schedule:
-    - cron: "0 2 * * 1"   # runs weekly on Monday at 2 AM
+    - cron: "0 2 * * 1" # weekly (Mon)
   workflow_dispatch:
+
+permissions:
+  contents: write   # needed for committing generated files
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: ${{ github.repository_owner }}
+          theme: "night-rainbow"
+
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          message: "chore: update 3D profile graph"
+          add: "profile-3d-contrib/**"
