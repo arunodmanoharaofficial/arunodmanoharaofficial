@@ -2,11 +2,11 @@ name: 3D profile contributions
 
 on:
   schedule:
-    - cron: "0 2 * * 1" # weekly (Mon)
+    - cron: "0 2 * * 1" # runs weekly (Monday at 2 AM)
   workflow_dispatch:
 
 permissions:
-  contents: write   # needed for committing generated files
+  contents: write   # allow committing generated files
 
 jobs:
   build:
