@@ -1,0 +1,53 @@
+name: Update profile art
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-art.yml"]
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#a5f3fc,#22d3ee,#8b5cf6,#6d28d9
+            dist/snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#164e63,#0e7490,#7c3aed,#c4b5fd
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate 3D contribution skyline
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect generated art
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          cp profile-3d-contrib/profile-night-rainbow.svg dist/profile-3d-contrib/
+
+      - name: Publish generated images to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
+          commit_message: 'chore: refresh profile art'
