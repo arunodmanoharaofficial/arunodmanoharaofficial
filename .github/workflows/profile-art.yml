@@ -3,7 +3,7 @@ name: Update profile art
 on:
   push:
     branches: [main]
-    paths: [".github/workflows/profile-art.yml"]
+    paths: [".github/workflows/profile-art.yml", "scripts/profile_stats.py"]
   schedule:
     - cron: '23 1 * * *'
   workflow_dispatch:
@@ -21,6 +21,12 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
+
+      - name: Render public repository statistics
+        run: python3 scripts/profile_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
@@ -51,3 +57,4 @@ jobs:
           publish_dir: ./dist
           keep_files: true
           commit_message: 'chore: refresh profile art'
+
