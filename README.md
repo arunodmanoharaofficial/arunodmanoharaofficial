@@ -19,15 +19,23 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/studio-stats.svg" width="100%" alt="Daily public GitHub snapshot: repository totals, stars, forks, primary languages and top original repositories" /></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/network-lab.svg" width="100%" alt="Animated server room concept with blinking lights and moving packets" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/workbench.svg" width="100%" alt="Currently building: my GitHub developer studio, with custom animations and project cards" /></p>
+
 ### Selected builds
 
-| Project | Explore |
-| :--- | :--- |
-| **live-site** | [Open repository ↗](https://github.com/arunodmanoharaofficial/live-site) |
-| **my-official-webpage** | [Open repository ↗](https://github.com/arunodmanoharaofficial/my-official-webpage) |
-| **GODSOFDATA-TRAFFICX** | [Open repository ↗](https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX) |
-| **Xui-usage-bot** | [Open repository ↗](https://github.com/arunodmanoharaofficial/Xui-usage-bot) |
-| **v2ray-worker** | [Open repository ↗](https://github.com/arunodmanoharaofficial/v2ray-worker) |
+<p align="center">
+  <a href="https://github.com/arunodmanoharaofficial/live-site"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-live-site.svg" width="49%" alt="live-site — open public repository" /></a>
+  <a href="https://github.com/arunodmanoharaofficial/my-official-webpage"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-my-official-webpage.svg" width="49%" alt="my-official-webpage — open public repository" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-GODSOFDATA-TRAFFICX.svg" width="49%" alt="GODSOFDATA-TRAFFICX — open public repository" /></a>
+  <a href="https://github.com/arunodmanoharaofficial/v2ray-worker"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-v2ray-worker.svg" width="49%" alt="v2ray-worker — open public repository" /></a>
+</p>
+
+[Explore all public repositories →](https://github.com/arunodmanoharaofficial?tab=repositories)
 
 ### My contribution skyline
 
@@ -45,3 +53,4 @@
 
 <p align="center"><a href="https://www.arunod.us"><b>Visit my website ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/arunodmanoharaofficial?tab=repositories"><b>Explore my work ↗</b></a></p>
 <p align="center"><sub>Always learning. Always building. Thanks for stopping by.</sub></p>
+
