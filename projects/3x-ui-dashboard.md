@@ -18,6 +18,36 @@ Managing several 3x-ui servers means switching between panels to inspect server 
 
 This describes the project's documented capabilities, not a benchmark or an independent production audit.
 
+## My contribution and engineering decisions
+
+I maintain and evolve this dashboard and its bot integrations. Recent repository work includes the Next.js migration, restoring rich Telegram message formatting, and improving client deletion lookup.
+
+### Challenge: identifying the right subscriber
+
+Client names are not a dependable identifier across server workflows. Recent changes require a UUID or V2Ray link for the deletion flow and remove email/name deletion options. This makes the intended account identifier more explicit.
+
+### Challenge: keeping bot output usable
+
+Recent work restores rich Telegram message handling and table-card formatting so client information can be presented clearly in chat.
+
+These are repository-backed implementation changes. No user-count, latency, or uptime claim is made here.
+
+## Workflow overview
+
+This diagram explains the documented workflows; it is not a screenshot of the application.
+
+```mermaid
+flowchart TD
+  Admin["Administrator"] --> Dashboard["Web dashboard"]
+  Admin --> Creator["Telegram creator bot"]
+  Dashboard --> Panels["Connected 3x-ui panels"]
+  Creator --> Panels
+  Subscriber["Subscriber"] --> ClientBot["Telegram client bot"]
+  ClientBot --> Panels
+  Panels --> Usage["Usage and subscription response"]
+  Usage --> ClientBot
+```
+
 ## Technology
 
 | Layer | Technologies |

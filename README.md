@@ -35,6 +35,7 @@ A central workspace for managing multiple 3x-ui servers and helping subscribers 
 - 🎯 **Problem:** Server administration and subscriber usage checks are spread across separate panels and conversations.
 - 🛠️ **Project focus:** A unified dashboard, client management, server monitoring, and Telegram automation.
 - ⚙️ **Stack:** Next.js, React, TypeScript, Node.js, Express, Tailwind CSS, and Telegram Bot API.
+- 👨‍💻 **My contribution:** Maintaining the dashboard and bot integrations, including the Next.js migration and improvements to Telegram client lookup and message formatting.
 - 🔒 **Source:** Private application; a public project overview is available below.
 
 [📖 Read the case study →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial/blob/main/projects/3x-ui-dashboard.md)
@@ -52,6 +53,11 @@ A central workspace for managing multiple 3x-ui servers and helping subscribers 
 
 A personal home for my background, technical interests, and collaboration links.
 
+[![Public portfolio desktop preview captured on 17 October 2026](https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/previews/portfolio-20261017.jpg)](https://www.arunod.us)
+
+<sub>Live-site capture: 17 October 2026. The deployed hero shown here differs from the latest repository, which includes a globe component.</sub>
+
+- 👨‍💻 **My contribution:** Developing and maintaining the portfolio, including its Next.js migration, section components, and visual interactions.
 - 🎯 **Problem:** Give visitors one place to learn about my work and get in touch.
 - 🛠️ **Project focus:** A section-based portfolio with a terminal-inspired interface, motion effects, and a globe component.
 - ⚙️ **Stack:** Next.js, React, TypeScript, CSS Modules, Framer Motion, and Cobe.
@@ -71,6 +77,7 @@ A personal home for my background, technical interests, and collaboration links.
 
 This profile brings together custom SVG artwork, project stories, and automatically generated activity visuals.
 
+- 👨‍💻 **My contribution:** Maintaining this profile's SVG artwork, project documentation, and automated activity visuals.
 - 🛠️ **Project focus:** Animated studio panels and a GitHub Actions workflow for public stats, contribution art, and the snake animation.
 - ⚙️ **Stack:** Markdown, SVG, Python, and GitHub Actions.
 
