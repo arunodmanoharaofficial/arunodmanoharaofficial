@@ -15,40 +15,69 @@
   <a href="#selected-builds">Selected builds</a>
 </p>
 
-### Selected builds
+<a id="selected-builds"></a>
 
-#### GODSOFDATA · 3X-UI Dashboard
+### 🚀 Selected builds
+
+#### 🖥️ GODSOFDATA · 3X-UI Dashboard
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-69e5e1?style=flat-square&amp;logo=nextdotjs&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-69e5e1?style=flat-square&amp;logo=react&amp;logoColor=69e5e1&amp;labelColor=172443" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-b39aff?style=flat-square&amp;logo=typescript&amp;logoColor=b39aff&amp;labelColor=172443" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-a8e6a3?style=flat-square&amp;logo=nodedotjs&amp;logoColor=a8e6a3&amp;labelColor=172443" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-69e5e1?style=flat-square&amp;logo=tailwindcss&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Telegram-87c9ff?style=flat-square&amp;logo=telegram&amp;logoColor=87c9ff&amp;labelColor=172443" alt="Telegram" />
+</p>
 
 A central workspace for managing multiple 3x-ui servers and helping subscribers check their data usage through Telegram.
 
-- **Problem:** Server administration and subscriber usage checks are spread across separate panels and conversations.
-- **Project focus:** A unified dashboard, client management, server monitoring, and Telegram automation.
-- **Stack:** Next.js, React, TypeScript, Node.js, Express, Tailwind CSS, and Telegram Bot API.
-- **Source:** Private application; a public project overview is available below.
+- 🎯 **Problem:** Server administration and subscriber usage checks are spread across separate panels and conversations.
+- 🛠️ **Project focus:** A unified dashboard, client management, server monitoring, and Telegram automation.
+- ⚙️ **Stack:** Next.js, React, TypeScript, Node.js, Express, Tailwind CSS, and Telegram Bot API.
+- 🔒 **Source:** Private application; a public project overview is available below.
 
-[Read the case study →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial/blob/main/projects/3x-ui-dashboard.md)
+[📖 Read the case study →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial/blob/main/projects/3x-ui-dashboard.md)
 
-#### Personal portfolio · arunod.us
+---
+
+#### 🌐 Personal portfolio · arunod.us
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-69e5e1?style=flat-square&amp;logo=nextdotjs&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-69e5e1?style=flat-square&amp;logo=react&amp;logoColor=69e5e1&amp;labelColor=172443" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-b39aff?style=flat-square&amp;logo=typescript&amp;logoColor=b39aff&amp;labelColor=172443" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-f6b7dc?style=flat-square&amp;logo=framer&amp;logoColor=f6b7dc&amp;labelColor=172443" alt="Framer Motion" />
+</p>
 
 A personal home for my background, technical interests, and collaboration links.
 
-- **Problem:** Give visitors one place to learn about my work and get in touch.
-- **Project focus:** A section-based portfolio with a terminal-inspired interface, motion effects, and a globe component.
-- **Stack:** Next.js, React, TypeScript, CSS Modules, Framer Motion, and Cobe.
+- 🎯 **Problem:** Give visitors one place to learn about my work and get in touch.
+- 🛠️ **Project focus:** A section-based portfolio with a terminal-inspired interface, motion effects, and a globe component.
+- ⚙️ **Stack:** Next.js, React, TypeScript, CSS Modules, Framer Motion, and Cobe.
 
-[Visit the website ↗](https://www.arunod.us) · [Explore the source →](https://github.com/arunodmanoharaofficial/live-site)
+[🌐 Visit the website ↗](https://www.arunod.us) · [💻 Explore the source →](https://github.com/arunodmanoharaofficial/live-site)
 
-#### GitHub developer studio
+---
+
+#### 🤖 GitHub developer studio
+
+<p>
+  <img src="https://img.shields.io/badge/Markdown-69e5e1?style=flat-square&amp;logo=markdown&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Markdown" />
+  <img src="https://img.shields.io/badge/SVG-f9d77e?style=flat-square&amp;logo=svg&amp;logoColor=f9d77e&amp;labelColor=172443" alt="SVG" />
+  <img src="https://img.shields.io/badge/Python-87c9ff?style=flat-square&amp;logo=python&amp;logoColor=87c9ff&amp;labelColor=172443" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-b39aff?style=flat-square&amp;logo=githubactions&amp;logoColor=b39aff&amp;labelColor=172443" alt="GitHub Actions" />
+</p>
 
 This profile brings together custom SVG artwork, project stories, and automatically generated activity visuals.
 
-- **Project focus:** Animated studio panels and a GitHub Actions workflow for public stats, contribution art, and the snake animation.
-- **Stack:** Markdown, SVG, Python, and GitHub Actions.
+- 🛠️ **Project focus:** Animated studio panels and a GitHub Actions workflow for public stats, contribution art, and the snake animation.
+- ⚙️ **Stack:** Markdown, SVG, Python, and GitHub Actions.
 
-[Explore the profile source →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial)
+[💻 Explore the profile source →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial)
 
 <details>
-<summary>More repositories and experiments</summary>
+<summary>🧪 More repositories and experiments</summary>
 
 - [GODSOFDATA-TRAFFICX](https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX) — traffic monitoring repository; its setup documentation references the upstream Traffic-X project.
 - [v2ray-worker](https://github.com/arunodmanoharaofficial/v2ray-worker) — Cloudflare Workers configuration tooling with upstream deployment links and credits preserved in its README.
@@ -60,10 +89,10 @@ These repositories are listed as experiments and references; see each repository
 
 [Explore all public repositories →](https://github.com/arunodmanoharaofficial?tab=repositories)
 
-### Inside my developer studio
+### 🎨 Inside my developer studio
 
 <details>
-<summary>Explore the animated studio — coding, tools, and life beyond the editor</summary>
+<summary>✨ Explore the animated studio — coding, tools, and life beyond the editor</summary>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/craft.svg" width="100%" alt="Animated coding terminal — web development, privacy and automation" />
@@ -83,7 +112,7 @@ These repositories are listed as experiments and references; see each repository
 
 </details>
 
-### My contribution skyline
+### 🌃 My contribution skyline
 
 <p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D visualization of my GitHub contribution calendar" /></p>
 
@@ -101,8 +130,12 @@ These repositories are listed as experiments and references; see each repository
 <p align="center"><sub>Always learning. Always building. Thanks for stopping by.</sub></p>
 
 
-### Let's connect
+### 🤝 Let's connect
 
 Have a project or an interesting idea to discuss? I am open to collaboration.
 
-[Email contact@arunod.us](mailto:contact@arunod.us) · [Connect on LinkedIn](https://www.linkedin.com/in/arunod-manohara-7613b6230/) · [Visit arunod.us](https://www.arunod.us)
+<p align="center">
+  <a href="mailto:contact@arunod.us"><img src="https://img.shields.io/badge/Email%20me-f6b7dc?style=flat-square&amp;logo=gmail&amp;logoColor=f6b7dc&amp;labelColor=172443" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/arunod-manohara-7613b6230/"><img src="https://img.shields.io/badge/LinkedIn-87c9ff?style=flat-square&amp;logo=linkedin&amp;logoColor=87c9ff&amp;labelColor=172443" alt="LinkedIn" /></a>
+  <a href="https://www.arunod.us"><img src="https://img.shields.io/badge/Visit%20arunod.us-69e5e1?style=flat-square&amp;logo=googlechrome&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Visit arunod.us" /></a>
+</p>
