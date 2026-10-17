@@ -8,9 +8,66 @@
 
 <p align="center"><b>Web development · VPN tunneling · Backend services · Automation</b><br /><sub>Privacy-aware tools, thoughtful interfaces, and a curiosity for how things work.</sub></p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/craft.svg" width="49%" alt="Animated coding terminal — web development, privacy and automation" />
-  <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/life.svg" width="49%" alt="An illustrated mountain landscape — hiking, chess and exploring new ideas" />
+  <a href="mailto:contact@arunod.us">Email me</a> ·
+  <a href="https://www.linkedin.com/in/arunod-manohara-7613b6230/">LinkedIn</a> ·
+  <a href="#selected-builds">Selected builds</a>
+</p>
+
+### Selected builds
+
+#### GODSOFDATA · 3X-UI Dashboard
+
+A central workspace for managing multiple 3x-ui servers and helping subscribers check their data usage through Telegram.
+
+- **Problem:** Server administration and subscriber usage checks are spread across separate panels and conversations.
+- **Project focus:** A unified dashboard, client management, server monitoring, and Telegram automation.
+- **Stack:** Next.js, React, TypeScript, Node.js, Express, Tailwind CSS, and Telegram Bot API.
+- **Source:** Private application; a public project overview is available below.
+
+[Read the case study →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial/blob/main/projects/3x-ui-dashboard.md)
+
+#### Personal portfolio · arunod.us
+
+A personal home for my background, technical interests, and collaboration links.
+
+- **Problem:** Give visitors one place to learn about my work and get in touch.
+- **Project focus:** A section-based portfolio with a terminal-inspired interface, motion effects, and a globe component.
+- **Stack:** Next.js, React, TypeScript, CSS Modules, Framer Motion, and Cobe.
+
+[Visit the website ↗](https://www.arunod.us) · [Explore the source →](https://github.com/arunodmanoharaofficial/live-site)
+
+#### GitHub developer studio
+
+This profile brings together custom SVG artwork, project stories, and automatically generated activity visuals.
+
+- **Project focus:** Animated studio panels and a GitHub Actions workflow for public stats, contribution art, and the snake animation.
+- **Stack:** Markdown, SVG, Python, and GitHub Actions.
+
+[Explore the profile source →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial)
+
+<details>
+<summary>More repositories and experiments</summary>
+
+- [GODSOFDATA-TRAFFICX](https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX) — traffic monitoring repository; its setup documentation references the upstream Traffic-X project.
+- [v2ray-worker](https://github.com/arunodmanoharaofficial/v2ray-worker) — Cloudflare Workers configuration tooling with upstream deployment links and credits preserved in its README.
+- [my-official-webpage](https://github.com/arunodmanoharaofficial/my-official-webpage) — a minimal HTML starter page.
+
+These repositories are listed as experiments and references; see each repository for authorship, credits, and licensing.
+
+</details>
+
+[Explore all public repositories →](https://github.com/arunodmanoharaofficial?tab=repositories)
+
+### Inside my developer studio
+
+<details>
+<summary>Explore the animated studio — coding, tools, and life beyond the editor</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/craft.svg" width="100%" alt="Animated coding terminal — web development, privacy and automation" />
+  <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/life.svg" width="100%" alt="An illustrated mountain landscape — hiking, chess and exploring new ideas" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/stack.svg" width="100%" alt="Rotating tech orbit — Java, JavaScript, Python, PHP, HTML, CSS, Nginx, Git, Docker, Linux and Bash" /></p>
@@ -23,19 +80,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/workbench.svg" width="100%" alt="Currently building: my GitHub developer studio, with custom animations and project cards" /></p>
 
-### Selected builds
 
-<p align="center">
-  <a href="https://github.com/arunodmanoharaofficial/live-site"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-live-site.svg" width="49%" alt="live-site — open public repository" /></a>
-  <a href="https://github.com/arunodmanoharaofficial/my-official-webpage"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-my-official-webpage.svg" width="49%" alt="my-official-webpage — open public repository" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-GODSOFDATA-TRAFFICX.svg" width="49%" alt="GODSOFDATA-TRAFFICX — open public repository" /></a>
-  <a href="https://github.com/arunodmanoharaofficial/v2ray-worker"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/project-v2ray-worker.svg" width="49%" alt="v2ray-worker — open public repository" /></a>
-</p>
-
-[Explore all public repositories →](https://github.com/arunodmanoharaofficial?tab=repositories)
+</details>
 
 ### My contribution skyline
 
@@ -54,3 +100,9 @@
 <p align="center"><a href="https://www.arunod.us"><b>Visit my website ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/arunodmanoharaofficial?tab=repositories"><b>Explore my work ↗</b></a></p>
 <p align="center"><sub>Always learning. Always building. Thanks for stopping by.</sub></p>
 
+
+### Let's connect
+
+Have a project or an interesting idea to discuss? I am open to collaboration.
+
+[Email contact@arunod.us](mailto:contact@arunod.us) · [Connect on LinkedIn](https://www.linkedin.com/in/arunod-manohara-7613b6230/) · [Visit arunod.us](https://www.arunod.us)
