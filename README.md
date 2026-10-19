@@ -1,6 +1,13 @@
 <!-- Original vector artwork. Animated panels are stored in assets/studio. -->
 <p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/hero.svg" width="100%" alt="Arunod Manohara — animated developer studio with a waving robot companion" /></p>
 
+<h1 align="center">Arunod Manohara</h1>
+<p align="center"><strong>Web Developer · IT Undergraduate at SLIIT · Sri Lanka</strong></p>
+
+I'm Arunod Manohara, known on GitHub as **arunodmanoharaofficial**. I build web applications, backend services, and automation tools, with an interest in cybersecurity and network security.
+
+My projects include a **Next.js and TypeScript dashboard for 3x-ui server management**, **Telegram bots for subscriber usage checks**, and my personal portfolio at [arunod.us](https://www.arunod.us). I also work with Java, Python, Docker, and Linux while studying Information Technology at SLIIT.
+
 <p align="center">
   <a href="https://www.arunod.us"><img src="https://img.shields.io/badge/WEBSITE-arunod.us-69e5e1?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=172443" alt="Visit arunod.us" /></a>
   <a href="https://github.com/arunodmanoharaofficial?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Code-b39aff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=172443" alt="Explore my repositories" /></a>
@@ -11,15 +18,15 @@
 
 <p align="center">
   <a href="mailto:contact@arunod.us">Email me</a> ·
-  <a href="https://www.linkedin.com/in/arunod-manohara-7613b6230/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/arunod-manohara-7613b6230/">Arunod Manohara on LinkedIn</a> ·
   <a href="#selected-builds">Selected builds</a>
 </p>
 
 <a id="selected-builds"></a>
 
-### 🚀 Selected builds
+## 🚀 Selected builds
 
-#### 🖥️ GODSOFDATA · 3X-UI Dashboard
+### 🖥️ GODSOFDATA · 3X-UI Dashboard
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-69e5e1?style=flat-square&amp;logo=nextdotjs&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Next.js" />
@@ -42,7 +49,7 @@ A central workspace for managing multiple 3x-ui servers and helping subscribers 
 
 ---
 
-#### 🌐 Personal portfolio · arunod.us
+### 🌐 Arunod Manohara — personal portfolio · arunod.us
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-69e5e1?style=flat-square&amp;logo=nextdotjs&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Next.js" />
@@ -62,11 +69,11 @@ A personal home for my background, technical interests, and collaboration links.
 - 🛠️ **Project focus:** A section-based portfolio with a terminal-inspired interface, motion effects, and a globe component.
 - ⚙️ **Stack:** Next.js, React, TypeScript, CSS Modules, Framer Motion, and Cobe.
 
-[🌐 Visit the website ↗](https://www.arunod.us) · [💻 Explore the source →](https://github.com/arunodmanoharaofficial/live-site)
+[🌐 Visit Arunod Manohara’s portfolio ↗](https://www.arunod.us) · [💻 Explore the source →](https://github.com/arunodmanoharaofficial/live-site)
 
 ---
 
-#### 🤖 GitHub developer studio
+### 🤖 GitHub developer studio
 
 <p>
   <img src="https://img.shields.io/badge/Markdown-69e5e1?style=flat-square&amp;logo=markdown&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Markdown" />
@@ -96,7 +103,7 @@ These repositories are listed as experiments and references; see each repository
 
 [Explore all public repositories →](https://github.com/arunodmanoharaofficial?tab=repositories)
 
-### 🎨 Inside my developer studio
+## 🎨 Inside my developer studio
 
 <details>
 <summary>✨ Explore the animated studio — coding, tools, and life beyond the editor</summary>
@@ -119,7 +126,7 @@ These repositories are listed as experiments and references; see each repository
 
 </details>
 
-### 🌃 My contribution skyline
+## 🌃 My contribution skyline
 
 <p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D visualization of my GitHub contribution calendar" /></p>
 
@@ -137,7 +144,7 @@ These repositories are listed as experiments and references; see each repository
 <p align="center"><sub>Always learning. Always building. Thanks for stopping by.</sub></p>
 
 
-### 🤝 Let's connect
+## 🤝 Let's connect
 
 Have a project or an interesting idea to discuss? I am open to collaboration.
 
