@@ -1,155 +1,122 @@
-<!-- Original vector artwork. Animated panels are stored in assets/studio. -->
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/hero.svg" width="100%" alt="Arunod Manohara — animated developer studio with a waving robot companion" /></p>
+<div align="center">
 
-<h1 align="center">Arunod Manohara</h1>
-<p align="center"><strong>Web Developer · IT Undergraduate at SLIIT · Sri Lanka</strong></p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · arunodmanoharaofficial</sub></p>
+<h1>ARUNOD MANOHARA</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Web Developer | Security Researcher 
+ Python • Java • Docker 
+ Built my own VPN servers 
+ Cybersecurity student 
+ arunod.us</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Kadawatha, Sri Lanka</sub></p>
+<p><a href="https://github.com/arunodmanoharaofficial">GitHub</a> &nbsp;·&nbsp; <a href="https://www.arunod.us">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/77367867?u=097789bfe40db7405a6b617d8749d0fa90776a3a&amp;v=4" width="180" alt="ARUNOD MANOHARA GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-I'm Arunod Manohara, known on GitHub as **arunodmanoharaofficial**. I build web applications, backend services, and automation tools, with an interest in cybersecurity and network security.
+<h2>What teams can evaluate quickly</h2>
 
-My projects include a **Next.js and TypeScript dashboard for 3x-ui server management**, **Telegram bots for subscriber usage checks**, and my personal portfolio at [arunod.us](https://www.arunod.us). I also work with Java, Python, Docker, and Linux while studying Information Technology at SLIIT.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 3 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>320 contributions · 77 active days</p></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://www.arunod.us"><img src="https://img.shields.io/badge/WEBSITE-arunod.us-69e5e1?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=172443" alt="Visit arunod.us" /></a>
-  <a href="https://github.com/arunodmanoharaofficial?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Code-b39aff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=172443" alt="Explore my repositories" /></a>
-</p>
+<p><sub>Web Developer | Security Researcher 
+ Python • Java • Docker 
+ Built my own VPN servers 
+ Cybersecurity student 
+ arunod.us</sub></p>
 
-<p align="center"><b>Web development · VPN tunneling · Backend services · Automation</b><br /><sub>Privacy-aware tools, thoughtful interfaces, and a curiosity for how things work.</sub></p>
+<h2>Proof at a glance</h2>
 
-
-<p align="center">
-  <a href="mailto:contact@arunod.us">Email me</a> ·
-  <a href="https://www.linkedin.com/in/arunod-manohara-7613b6230/">Arunod Manohara on LinkedIn</a> ·
-  <a href="#selected-builds">Selected builds</a>
-</p>
-
-<a id="selected-builds"></a>
-
-## 🚀 Selected builds
-
-### 🖥️ GODSOFDATA · 3X-UI Dashboard
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-69e5e1?style=flat-square&amp;logo=nextdotjs&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-69e5e1?style=flat-square&amp;logo=react&amp;logoColor=69e5e1&amp;labelColor=172443" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-b39aff?style=flat-square&amp;logo=typescript&amp;logoColor=b39aff&amp;labelColor=172443" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-a8e6a3?style=flat-square&amp;logo=nodedotjs&amp;logoColor=a8e6a3&amp;labelColor=172443" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-69e5e1?style=flat-square&amp;logo=tailwindcss&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Telegram-87c9ff?style=flat-square&amp;logo=telegram&amp;logoColor=87c9ff&amp;labelColor=172443" alt="Telegram" />
-</p>
-
-A central workspace for managing multiple 3x-ui servers and helping subscribers check their data usage through Telegram.
-
-- 🎯 **Problem:** Server administration and subscriber usage checks are spread across separate panels and conversations.
-- 🛠️ **Project focus:** A unified dashboard, client management, server monitoring, and Telegram automation.
-- ⚙️ **Stack:** Next.js, React, TypeScript, Node.js, Express, Tailwind CSS, and Telegram Bot API.
-- 👨‍💻 **My contribution:** Maintaining the dashboard and bot integrations, including the Next.js migration and improvements to Telegram client lookup and message formatting.
-- 🔒 **Source:** Private application; a public project overview is available below.
-
-[📖 Read the case study →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial/blob/main/projects/3x-ui-dashboard.md)
-
----
-
-### 🌐 Arunod Manohara — personal portfolio · arunod.us
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-69e5e1?style=flat-square&amp;logo=nextdotjs&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-69e5e1?style=flat-square&amp;logo=react&amp;logoColor=69e5e1&amp;labelColor=172443" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-b39aff?style=flat-square&amp;logo=typescript&amp;logoColor=b39aff&amp;labelColor=172443" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-f6b7dc?style=flat-square&amp;logo=framer&amp;logoColor=f6b7dc&amp;labelColor=172443" alt="Framer Motion" />
-</p>
-
-A personal home for my background, technical interests, and collaboration links.
-
-[![Public portfolio desktop preview captured on 17 October 2026](https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/previews/portfolio-20261017.jpg)](https://www.arunod.us)
-
-<sub>Live-site capture: 17 October 2026. The deployed hero shown here differs from the latest repository, which includes a globe component.</sub>
-
-- 👨‍💻 **My contribution:** Developing and maintaining the portfolio, including its Next.js migration, section components, and visual interactions.
-- 🎯 **Problem:** Give visitors one place to learn about my work and get in touch.
-- 🛠️ **Project focus:** A section-based portfolio with a terminal-inspired interface, motion effects, and a globe component.
-- ⚙️ **Stack:** Next.js, React, TypeScript, CSS Modules, Framer Motion, and Cobe.
-
-[🌐 Visit Arunod Manohara’s portfolio ↗](https://www.arunod.us) · [💻 Explore the source →](https://github.com/arunodmanoharaofficial/live-site)
-
----
-
-### 🤖 GitHub developer studio
-
-<p>
-  <img src="https://img.shields.io/badge/Markdown-69e5e1?style=flat-square&amp;logo=markdown&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Markdown" />
-  <img src="https://img.shields.io/badge/SVG-f9d77e?style=flat-square&amp;logo=svg&amp;logoColor=f9d77e&amp;labelColor=172443" alt="SVG" />
-  <img src="https://img.shields.io/badge/Python-87c9ff?style=flat-square&amp;logo=python&amp;logoColor=87c9ff&amp;labelColor=172443" alt="Python" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-b39aff?style=flat-square&amp;logo=githubactions&amp;logoColor=b39aff&amp;labelColor=172443" alt="GitHub Actions" />
-</p>
-
-This profile brings together custom SVG artwork, project stories, and automatically generated activity visuals.
-
-- 👨‍💻 **My contribution:** Maintaining this profile's SVG artwork, project documentation, and automated activity visuals.
-- 🛠️ **Project focus:** Animated studio panels and a GitHub Actions workflow for public stats, contribution art, and the snake animation.
-- ⚙️ **Stack:** Markdown, SVG, Python, and GitHub Actions.
-
-[💻 Explore the profile source →](https://github.com/arunodmanoharaofficial/arunodmanoharaofficial)
-
-<details>
-<summary>🧪 More repositories and experiments</summary>
-
-- [GODSOFDATA-TRAFFICX](https://github.com/arunodmanoharaofficial/GODSOFDATA-TRAFFICX) — traffic monitoring repository; its setup documentation references the upstream Traffic-X project.
-- [v2ray-worker](https://github.com/arunodmanoharaofficial/v2ray-worker) — Cloudflare Workers configuration tooling with upstream deployment links and credits preserved in its README.
-- [my-official-webpage](https://github.com/arunodmanoharaofficial/my-official-webpage) — a minimal HTML starter page.
-
-These repositories are listed as experiments and references; see each repository for authorship, credits, and licensing.
-
-</details>
-
-[Explore all public repositories →](https://github.com/arunodmanoharaofficial?tab=repositories)
-
-## 🎨 Inside my developer studio
-
-<details>
-<summary>✨ Explore the animated studio — coding, tools, and life beyond the editor</summary>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>320</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/craft.svg" width="100%" alt="Animated coding terminal — web development, privacy and automation" />
-  <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/life.svg" width="100%" alt="An illustrated mountain landscape — hiking, chess and exploring new ideas" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="ARUNOD MANOHARA GitHub proof metrics" />
+</picture>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/stack.svg" width="100%" alt="Rotating tech orbit — Java, JavaScript, Python, PHP, HTML, CSS, Nginx, Git, Docker, Linux and Bash" /></p>
+<h2>Selected work</h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/identity.svg" width="100%" alt="Swinging developer pass — Arunod Manohara, open to collaboration and interesting ideas" /></p>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&repos=arunodmanoharaofficial%2Farunodmanoharaofficial%2Carunodmanoharaofficial%2Flive-site%2Carunodmanoharaofficial%2Fregister&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&repos=arunodmanoharaofficial%2Farunodmanoharaofficial%2Carunodmanoharaofficial%2Flive-site%2Carunodmanoharaofficial%2Fregister&v=recruiter-projects-1&mode=dark" width="100%" alt="ARUNOD MANOHARA selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/arunodmanoharaofficial/arunodmanoharaofficial">arunodmanoharaofficial</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/arunodmanoharaofficial/arunodmanoharaofficial">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/studio-stats.svg" width="100%" alt="Daily public GitHub snapshot: repository totals, stars, forks, primary languages and top original repositories" /></p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/arunodmanoharaofficial/live-site">live-site</a></h3><p>Personal portfolio website of Arunod Manohara</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/is-a-dev/register">register</a></h3><p>Grab your own sweet-looking '.is-a.dev' subdomain.</p><p><sub>JavaScript · ⭐ 11,760</sub></p></td>
+</tr>
+</table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/network-lab.svg" width="100%" alt="Animated server room concept with blinking lights and moving packets" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/workbench.svg" width="100%" alt="Currently building: my GitHub developer studio, with custom animations and project cards" /></p>
-
-
-</details>
-
-## 🌃 My contribution skyline
-
-<p align="center"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D visualization of my GitHub contribution calendar" /></p>
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/output/snake.svg" width="100%" alt="Animated snake exploring my GitHub contribution grid" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ARUNOD MANOHARA technology stack" />
+</picture>
 </p>
 
-<p align="center"><a href="https://www.arunod.us"><img src="https://raw.githubusercontent.com/arunodmanoharaofficial/arunodmanoharaofficial/main/assets/studio/connect.svg" width="100%" alt="Let's build something worth using — visit arunod.us" /></a></p>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>58% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>31% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-<p align="center"><a href="https://www.arunod.us"><b>Visit my website ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/arunodmanoharaofficial?tab=repositories"><b>Explore my work ↗</b></a></p>
-<p align="center"><sub>Always learning. Always building. Thanks for stopping by.</sub></p>
-
-
-## 🤝 Let's connect
-
-Have a project or an interesting idea to discuss? I am open to collaboration.
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <a href="mailto:contact@arunod.us"><img src="https://img.shields.io/badge/Email%20me-f6b7dc?style=flat-square&amp;logo=gmail&amp;logoColor=f6b7dc&amp;labelColor=172443" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/arunod-manohara-7613b6230/"><img src="https://img.shields.io/badge/LinkedIn-87c9ff?style=flat-square&amp;logo=linkedin&amp;logoColor=87c9ff&amp;labelColor=172443" alt="LinkedIn" /></a>
-  <a href="https://www.arunod.us"><img src="https://img.shields.io/badge/Visit%20arunod.us-69e5e1?style=flat-square&amp;logo=googlechrome&amp;logoColor=69e5e1&amp;labelColor=172443" alt="Visit arunod.us" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=arunodmanoharaofficial&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F77367867%3Fu%3D097789bfe40db7405a6b617d8749d0fa90776a3a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ARUNOD MANOHARA contribution activity" />
+</picture>
 </p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/arunodmanoharaofficial">GitHub</a><br /><a href="https://www.arunod.us">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>ARUNOD MANOHARA · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
